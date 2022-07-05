@@ -1,0 +1,22 @@
+.navbar {
+    background-color: whitesmoke;
+    border-radius: 50px ;
+    font-weight: 500;
+    font-size: large;
+    color: black;
+}
+
+.header {
+    width: 100%;
+    padding: 40px 40px 40px 40px;
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+    .header{
+        width: 100%;
+    }
+  }
+

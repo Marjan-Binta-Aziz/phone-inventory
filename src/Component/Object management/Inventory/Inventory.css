@@ -1,0 +1,35 @@
+.inventory{
+    height: 550px;
+    border: 1px solid lavender;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    box-shadow: 5px 5px 15px 15px rgba(0, 0, 0, 0.107);
+    position: relative;
+
+}
+.inventory img{
+    height: auto;
+    width: auto;
+    padding-top: 50px;
+}
+.Card .Img{
+    opacity: 0.05;
+}
+.edit-btn{
+    width: 150px;
+    padding: 5px;
+    border: 2px solid rgb(182, 176, 176);
+    border-radius: 90px;
+    margin-bottom: 10px;
+    position: absolute;
+    left: 50px;
+    bottom:10px;
+    margin: auto;
+}
+.edit-btn:hover{
+    border: 2px solid rgb(196, 139, 24);
+    border-radius: 90px;
+    font-weight: 200;
+
+}
